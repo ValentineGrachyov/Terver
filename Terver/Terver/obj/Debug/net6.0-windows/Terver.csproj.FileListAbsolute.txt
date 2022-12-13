@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Terver\Terver\Terver\bin\Debug\net6.0-windows\Terver.exe
+C:\Users\User\Desktop\Terver\Terver\Terver\bin\Debug\net6.0-windows\Terver.deps.json
+C:\Users\User\Desktop\Terver\Terver\Terver\bin\Debug\net6.0-windows\Terver.runtimeconfig.json
+C:\Users\User\Desktop\Terver\Terver\Terver\bin\Debug\net6.0-windows\Terver.dll
+C:\Users\User\Desktop\Terver\Terver\Terver\bin\Debug\net6.0-windows\ref\Terver.dll
+C:\Users\User\Desktop\Terver\Terver\Terver\bin\Debug\net6.0-windows\Terver.pdb
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.Form1.resources
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.AssemblyInfo.cs
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.dll
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\ref\Terver.dll
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.pdb
+C:\Users\User\Desktop\Terver\Terver\Terver\obj\Debug\net6.0-windows\Terver.genruntimeconfig.cache
